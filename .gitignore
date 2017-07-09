@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+.babelrc
+
+node_modules/
+.expo/
+npm-debug.*
